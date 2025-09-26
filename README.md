@@ -111,4 +111,47 @@ Agriculture, FoodTech & Rural Development
 <ul>
   <li>Feasibility:
     <ul>
-      <li>IoT kits
+      <li>IoT kits can be built and distributed at low cost (&lt; ₹2000 per farm).</li>
+      <li>Mobile penetration in rural India supports app deployment.</li>
+      <li>Government schemes (PMKSY, Atal Bhujal Yojana) align with this solution.</li>
+    </ul>
+  </li>
+  <li>Challenges:
+    <ul>
+      <li>Farmer resistance to adopting new hardware.</li>
+      <li>Maintenance of IoT devices in rural conditions.</li>
+      <li>Connectivity issues in remote areas.</li>
+    </ul>
+  </li>
+  <li>Strategies:
+    <ul>
+      <li>Provide training with NGOs, cooperatives, and Krishi Vigyan Kendras.</li>
+      <li>Offer subsidies and government-backed hardware kits.</li>
+      <li>Enable offline data caching and SMS-based fallback alerts.</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- Impact and Benefits -->
+## Impact and Benefits
+<ul>
+  <li>Social Impact: Farmers get scientific, real-time irrigation guidance in their language.</li>
+  <li>Economic Impact: Saves electricity and pumping costs; increases crop yield by 15–20%.</li>
+  <li>Environmental Impact: Prevents groundwater depletion and reduces soil degradation.</li>
+  <li>Governance Impact: Provides water usage analytics for government planning.</li>
+</ul>
+
+<!-- Research and References -->
+## Research and References
+<ul>
+  <li>NABARD reports on inefficient irrigation practices in India.</li>
+  <li>FAO studies: smart irrigation increases yield and water efficiency.</li>
+  <li>Case studies:
+    <ul>
+      <li>Netafim drip irrigation systems.</li>
+      <li>Pradhan Mantri Krishi Sinchai Yojana (PMKSY).</li>
+    </ul>
+  </li>
+  <li>IMD datasets and ICAR research on irrigation practices.</li>
+</ul>
+
