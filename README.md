@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 26/09/2025
+## Register Number: 25015922
+## Name: HEMA D
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -40,29 +40,75 @@ Government of Punjab
 ## Theme
 Agriculture, FoodTech & Rural Development
 
+<!-- Problem Title -->
+## Problem Title
+<ul>
+  <li>AI-Powered Smart Irrigation & Water Management System</li>
+</ul>
+
+<!-- Problem Description -->
+## Problem Description
+
+<ul>
+  <li>Water scarcity and inefficient irrigation practices are critical challenges for Indian farmers.</li>
+  <li>Farmers often over-irrigate or under-irrigate due to lack of soil moisture data, weather forecasts, and scientific insights.</li>
+  <li>This leads to:
+    <ul>
+      <li>Excessive water usage and groundwater depletion.</li>
+      <li>Reduced crop yields.</li>
+      <li>Higher electricity and pumping costs.</li>
+      <li>Long-term soil damage (salinity, erosion).</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- Proposed Solution -->
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
 
+<ul>
+  <li>A low-cost IoT + AI-based irrigation management system to help farmers optimize water use.</li>
+  <li>Features:
+    <ul>
+      <li>Soil moisture sensors linked with a mobile app for real-time soil water status.</li>
+      <li>Weather-based irrigation scheduling using IMD and satellite data.</li>
+      <li>AI-driven predictive irrigation models to suggest optimal water levels.</li>
+      <li>IoT-based automated pump control (on/off).</li>
+      <li>Voice-based irrigation advisory in local languages.</li>
+      <li>Data dashboard for governments/NGOs to monitor water usage patterns.</li>
+    </ul>
+  </li>
+  <li>Innovation: Combines IoT hardware with AI prediction and localized advisories in a single affordable system.</li>
+</ul>
+
+<!-- Technical Approach -->
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
 
+<ul>
+  <li>Technologies:
+    <ul>
+      <li>Hardware: Low-cost soil moisture sensors, IoT-enabled pump controllers.</li>
+      <li>Frontend: Flutter / React Native mobile app.</li>
+      <li>Backend: Node.js / Django REST APIs.</li>
+      <li>AI Models: TensorFlow for predictive irrigation requirements.</li>
+      <li>Database: PostgreSQL, Firebase for real-time sync.</li>
+      <li>APIs: IMD weather APIs for rainfall & temperature data.</li>
+    </ul>
+  </li>
+  <li>Implementation Steps:
+    <ul>
+      <li>Phase 1 — Install soil sensors and IoT pump controllers.</li>
+      <li>Phase 2 — Collect soil, crop, and weather data.</li>
+      <li>Phase 3 — Train AI models for predictive water scheduling.</li>
+      <li>Phase 4 — Develop farmer mobile app with alerts and voice support.</li>
+      <li>Phase 5 — Pilot in water-scarce districts; refine based on results.</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- Feasibility and Viability -->
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
 
-## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
-
-## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<ul>
+  <li>Feasibility:
+    <ul>
+      <li>IoT kits
